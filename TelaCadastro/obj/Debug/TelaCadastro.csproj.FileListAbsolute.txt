@@ -1,0 +1,10 @@
+C:\Users\luanc\Documents\C#-windowsForms\TelaCadastro\TelaCadastro\bin\Debug\TelaCadastro.exe.config
+C:\Users\luanc\Documents\C#-windowsForms\TelaCadastro\TelaCadastro\bin\Debug\TelaCadastro.exe
+C:\Users\luanc\Documents\C#-windowsForms\TelaCadastro\TelaCadastro\bin\Debug\TelaCadastro.pdb
+C:\Users\luanc\Documents\C#-windowsForms\TelaCadastro\TelaCadastro\obj\Debug\TelaCadastro.csprojAssemblyReference.cache
+C:\Users\luanc\Documents\C#-windowsForms\TelaCadastro\TelaCadastro\obj\Debug\TelaCadastro.frmCadastroPessoa.resources
+C:\Users\luanc\Documents\C#-windowsForms\TelaCadastro\TelaCadastro\obj\Debug\TelaCadastro.Properties.Resources.resources
+C:\Users\luanc\Documents\C#-windowsForms\TelaCadastro\TelaCadastro\obj\Debug\TelaCadastro.csproj.GenerateResource.cache
+C:\Users\luanc\Documents\C#-windowsForms\TelaCadastro\TelaCadastro\obj\Debug\TelaCadastro.csproj.CoreCompileInputs.cache
+C:\Users\luanc\Documents\C#-windowsForms\TelaCadastro\TelaCadastro\obj\Debug\TelaCadastro.exe
+C:\Users\luanc\Documents\C#-windowsForms\TelaCadastro\TelaCadastro\obj\Debug\TelaCadastro.pdb
